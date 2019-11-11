@@ -2,7 +2,7 @@
 /**
  * Write a description of class MyApp here.
  *
- * @author (2017605038 스피뎅 크릴, 2018315031 박성현)
+ * @author (cc)
  * @version (a version number or a date)
  */
 public class MyApp
